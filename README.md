@@ -21,13 +21,41 @@ To set the tone for the session, we begin with a song. Lyrics were created with 
 
 Click the link below to follow along with the presentation (created with [Gamma](https://gamma.app/))
 
-[View presentation slides](https://docs.google.com/presentation/d/12v0aui6ULE3qtGsX_NFpfH7UJM_iieQH/edit?usp=sharing&ouid=116979576458868389132&rtpof=true&sd=true)
+[View presentation slides](https://docs.google.com/presentation/d/1C0SvIFoML8mqn_vWM7uPKV0aN33XJOJ9/edit?usp=sharing&ouid=116979576458868389132&rtpof=true&sd=true)
 
 ### Topics Covered
 - What is predictive maintenance?
 - Why it matters in manufacturing
 - How machine learning supports decision-making
 - Real-world impact (cost, downtime, efficiency)
+
+---
+
+## Sources
+
+The following sources were used to support claims made throughout the presentation:
+
+### [1] Cost of Downtime
+[Forbes Tech Council](https://www.forbes.com/councils/forbestechcouncil/2021/02/26/manufacturing-without-unplanned-downtime-could-become-a-reality-sooner-than-you-think/?streamIndex=0) article discussing the impact of unplanned downtime in manufacturing.
+
+
+### [2] Causes of Downtime
+[iFactory blog](https://ifactoryapp.com/blog/hidden-cost-unplanned-downtime-manufacturing) outlining common causes of unplanned downtime, including equipment failure estimates.
+
+
+### [3] Predictive Maintenance Benefits
+[Olix365 article](https://olix365.com/blog/predictive-maintenance-benefits/) summarizing typical improvements from predictive maintenance (e.g., reduced breakdowns and cost savings).
+
+
+### [4] Case Study: Predictive Maintenance in Practice
+[ThinkAI](https://thinkaicorp.com/case-study-cutting-machine-downtime-with-predictive-maintenance-and-ai/) case study describing implementation of predictive maintenance in a manufacturing environment.
+
+---
+
+## Notes on Sources
+
+- These sources are primarily industry and vendor articles intended for general understanding.
+- Reported statistics (e.g., downtime costs, % causes) should be interpreted as **estimates rather than precise universal values**.
 
 ---
 
