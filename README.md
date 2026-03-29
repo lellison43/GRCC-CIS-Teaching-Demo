@@ -84,10 +84,7 @@ The notebook (`CIS_Teaching_Demo_GRCC_2026.ipynb`) found above allows learners t
 
 ### How to Use
 
-1. Open the notebook using:
-   - Jupyter Notebook / JupyterLab  
-   - VS Code  
-   - Google Colab (recommended for ease)
+1. Open the notebook using Google Colab (link provided in notebook).
 
 2. Load the dataset:
    - Ensure the CSV file is in the same directory  
